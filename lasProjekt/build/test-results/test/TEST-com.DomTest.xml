@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.DomTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-08T19:27:41" hostname="DESKTOP-N6BDJB6" time="1.083">
+  <properties/>
+  <testcase name="ktosUmarl()" classname="com.DomTest" time="0.044"/>
+  <testcase name="nowyDomownik()" classname="com.DomTest" time="1.002"/>
+  <testcase name="getPozycja()" classname="com.DomTest" time="0.002"/>
+  <system-out><![CDATA[test: ktos umarl
+
+ umarl b
+
+ umarl a
+
+ umarl c
+Dom o nazwie roslinozerne stoi pusty.
+Ile istot 1: 3
+Ile istot 2: 3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

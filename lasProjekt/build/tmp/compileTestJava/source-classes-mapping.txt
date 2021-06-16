@@ -1,0 +1,6 @@
+com/MapaTestSet1_1.java
+ com.MapaTestSet1_1
+com/DomTest.java
+ com.DomTest
+com/MapaTest1_2.java
+ com.MapaTest1_2

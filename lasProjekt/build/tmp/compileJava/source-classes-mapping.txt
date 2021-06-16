@@ -1,0 +1,32 @@
+com/Wszystkozerne.java
+ com.Wszystkozerne
+com/Roslina.java
+ com.Roslina
+com/Jadalne.java
+ com.Jadalne
+com/Istota.java
+ com.Istota
+com/Przeszkoda.java
+ com.Przeszkoda
+com/Roslinozerne.java
+ com.Roslinozerne
+com/Miesozerne.java
+ com.Miesozerne
+com/Plansza.java
+ com.Plansza
+com/Trujace.java
+ com.Trujace
+com/Mapa.java
+ com.Mapa
+com/Dom.java
+ com.Dom
+com/Szukam.java
+ com.Szukam
+com/Pozycja.java
+ com.Pozycja
+com/Leczace.java
+ com.Leczace
+com/Main.java
+ com.Main
+com/Istniejace.java
+ com.Istniejace

@@ -1,0 +1,103 @@
+
+Symulacja lasu. Statystyki
+
+
+Dzien: 1
+ 	 roslinozernych istot jest: 5
+ 	 wszystkozernych istot jest: 6
+ 	 miesozernych istot jest: 7
+
+Dzien: 2
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 2
+ 	 miesozernych istot jest: 13
+
+Dzien: 3
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 4
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 5
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 6
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 7
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 8
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 9
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 10
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 11
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 12
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 13
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 14
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 15
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 16
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 17
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 18
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 19
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
+
+Dzien: 20
+ 	 roslinozernych istot jest: 0
+ 	 wszystkozernych istot jest: 0
+ 	 miesozernych istot jest: 13
